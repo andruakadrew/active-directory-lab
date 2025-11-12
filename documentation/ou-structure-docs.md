@@ -11,16 +11,23 @@ Organizational units provides a way to strucutre and manage groups of users, com
 
 ## Users and Groups
 Inside Organizational Units, different objects can be found representing Users accounts, Groups, devices, and other Organizational Units. 
-For Simplicity purposes, I decided to only add a handful of users per OU and One Security Group per OU (I will talk about Security Groups later on...)
+For Simplicity purposes, I decided to only add 3 users per OU and One Security Group per OU (I will talk about Security Groups later on...)
 
-![sales-ou](/Pictures/Screenshots/sales-ou.png)
+![sales-ou](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/sales-ou.png)
+
 Obejcts in the Sales OU
 
-![it-ou](/Pictures/Screenshots/sales-ou.png)
+
+![it-ou](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/it-department.png)
+
 Objects in the IT OU
 
-![management-ou](/Pictures/Screenshots/sales-ou.png)
+
+![management-ou](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/management-ou.png)
+
 Objets in the Management OU
 
-![inventory-ou](/Pictures/Screenshots/sales-ou.png)
+
+![inventory-ou](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/inventory-ou.png)
+
 Obejcts in the Inventory OU
