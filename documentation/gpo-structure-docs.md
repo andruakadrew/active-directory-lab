@@ -1,7 +1,6 @@
 # Group Policy Objects
 
 The purpose of Group Policy Objects (GPO) is to provide centralized management and configuration for users and computers within a network. With GPOs, administrators can enforce specific settings such as security policies, software installations,
-
 and desktop configurations.
 
 ## Overview
