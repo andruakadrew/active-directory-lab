@@ -3,16 +3,20 @@ Security groups are responsible for managing access permissions to network resou
 assigned my GPOs to those security groups. I also ensured that every user within each OU was assigned to that security group. 
 
 Sales Security Group and Members
+
 ![sales-security-group](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/sales-sg.png)
 
 
 Management Security Group and Members
+
 ![management-security-group](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/management-sg.png)
 
 
 IT Security Group and Members
+
 ![it-security-group](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/it-sg.png)
 
 
 Inventory Security Group and Members
+
 ![inventory-security-group](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/inventory-sg.png)
