@@ -17,8 +17,8 @@ A homelab Active Directory environment built on VirtualBox that simulates a smal
 - Departmental OUs with delegated controls
 - Security groups and targeted GPOs:
   - Retail lockdown 
-  - Drive mapping: `Z:` → `\\SkateShop\RetailDocs`
-  - Printers by OU (Retail gets “Store Printer”)
+  - Drive mapping
+  - Printers by OU 
 - Folder Redirection 
 - Baseline password and account lockout policies
 - Auditing for logon and object access
