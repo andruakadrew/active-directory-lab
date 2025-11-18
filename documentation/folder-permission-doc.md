@@ -3,6 +3,8 @@ Every department within an organization must have access to resources in order t
 
 ![folder-structure](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/folder-system-structure.png)
 
+_Files located in C: Drive_
+
 
 ## Inherited Permissions 
 When assigning proper permissions for resources, it is important to ensure that inheritance is disabled. By default, folders inherit permissions from their parent folders, which grant access for all users with the ability to modify resources. The
