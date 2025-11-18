@@ -25,9 +25,10 @@ A homelab Active Directory environment built on VirtualBox that simulates a smal
 
 ## What I Learned
 - Designing OU/GPO strategy by department and role
-- NTFS vs Share permissions in practice
-- Targeting with security filtering and WMI 
-- Troubleshooting GPO precedence and Resultant Set of Policy 
+- Apply permissions for company resources(e.g. drives, folders)
+- Proper Scope assignment for Security Groups
+- Troubleshooting Workstation Connectivity issues
+- Program scripts that reduce manuanl effort
 
 
 
