@@ -1,4 +1,4 @@
-# Add Users script: Automatic user allocation from Text File
+# Automatic user allocation from Text File
 # Creates AD users from a text file and assigns them to departments
 
 
@@ -62,5 +62,6 @@ foreach ($user in $users) {
 
     $ouIndex++
 }
+
 
 Write-Host "`nUser creation complete!" -ForegroundColor Cyan
