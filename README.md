@@ -1,6 +1,6 @@
 # Windows Server AD Lab — “SkateShop” Domain
 
-Active Directory environment built on VirtualBox that simulates a small retail company (Sales, IT, Warehouse). The use of of Organizational Units, security groups, Group Policy Objects, and Group Policy Preferences is to automate user experience and enforce least privilege.
+Active Directory environment built on VirtualBox that simulates a small retail company (Sales, IT, Warehouse). Organizational Units, Security Groups, Group Policy Objects, and Group Policy Preferences are used to automate user experience and enforce least privilege.
 
 ## Goals
 - Practice real-world AD tasks (OUs, users, groups, GPOs, permissions).
