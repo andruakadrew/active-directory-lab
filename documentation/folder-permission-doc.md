@@ -14,12 +14,6 @@ first step with enabling proper access is to make sure inheritance is fully disa
 
 
 ## Assigning Security Permissions
-Assign permissions to the appropriate security group; in my case I'm editing the Sales department folder and the security group is called "Sales_Team". I allow only modification permissions for this security group.
+Assign permissions to the appropriate security group; in my case I'm editing the Sales department folder and the security group is called "Sales_Team".
 
 ![folder-sales-permissions](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/sales-folder-permission.png)
-
-
-It's also important for administrators to have full access to company resources in order to troubleshoot, recover, audit, and back up files. In my homelab, the IT security group is called "IT_Admins," and I assigned full permissions to 
-that group. These steps are repeated for all folder permissions.
-
-![folder-it-permissions](https://github.com/andruakadrew/active-directory-lab/blob/main/screenshots/sales-folder-permission.png)
