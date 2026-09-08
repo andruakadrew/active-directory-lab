@@ -17,9 +17,10 @@ Active Directory environment built on VirtualBox that simulates a small retail c
 1. Departmental OUs with delegated controls
 2. Security groups and targeted GPOs:
    _Drive Mapping, Printers by OU_ 
-3. Folder Redirection <br>
+3. Folder redirection policies <br>
 4. Baseline password and account lockout policies <br>
 5. Auditing for logon and object access <br>
+6. PowerShell scripts for onboarding/offboarding automation and password resets <br>
 
 
 
