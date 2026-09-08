@@ -8,27 +8,19 @@ Active Directory environment built on VirtualBox that simulates a small retail c
 - Demonstrate documentation, scripting, and reproducibility.
 
 ## Topology
-- **Domain:** skateshop.local
-- **DC:** WIN-DC01 (AD DS, DNS)
-- **Clients:** WIN10-Retail01, WIN10-Warehouse01
-- **Network:** Host-only + NAT and DHCP
+**Domain:** skateshop.local <br>
+**DC:** WIN-DC01 (AD DS, DNS) <br>
+**Clients:** WIN10-Retail01, WIN10-Warehouse01 <br>
+**Network:** Host-only + NAT and DHCP <br>
 
 ## Key Features Implemented
-- Departmental OUs with delegated controls
-- Security groups and targeted GPOs:
-  - Retail lockdown 
-  - Drive mapping
-  - Printers by OU 
-- Folder Redirection 
-- Baseline password and account lockout policies
-- Auditing for logon and object access
+1. Departmental OUs with delegated controls
+2. Security groups and targeted GPOs:
+   _Drive Mapping, Printers by OU_ 
+3. Folder Redirection <br>
+4. Baseline password and account lockout policies <br>
+5. Auditing for logon and object access <br>
 
-## What I Learned
-- Designing OU/GPO strategy by department and role
-- Apply permissions for company resources(e.g. drives, folders)
-- Proper Scope assignment for Security Groups
-- Troubleshooting Workstation Connectivity issues
-- Program scripts that reduce manuanl effort
 
 
 
